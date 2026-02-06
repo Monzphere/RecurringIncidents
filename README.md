@@ -118,7 +118,7 @@ Main module files:
 
 This module was developed by **Monzphere**.
 
-Special thanks to our partners: **Lunio**, **Capmon**, **IOS**.
+Special thanks to our partners: **Lunio**, **IOS**.
 
 Website: `https://monzphere.com`
 
